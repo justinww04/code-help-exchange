@@ -10,3 +10,4 @@ This will alow users to also solve problems for others for a in app currency
 -adding user login screen
 -adding 2fa
 -adding swipe feature
+-Trying to intergrate reward system
