@@ -8,7 +8,7 @@ This project will bring Software Devs together by allowing them to upload proble
 This will alow users to also solve problems for others for a in app currency
 
 -adding user login screen - complete
--adding 2fa - complete/ almost complete 
+-adding 2fa - complete/ almost complete -- complete
 -adding swipe feature-complete
 -Trying to intergrate reward system-complete
 -Trying to add social screen that allowys people to post problems and others to help. -complete
