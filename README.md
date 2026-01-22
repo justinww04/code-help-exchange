@@ -13,4 +13,4 @@ This will alow users to also solve problems for others for a in app currency
 -Trying to intergrate reward system-complete
 -Trying to add social screen that allowys people to post problems and others to help. -complete
 -added updated login screen
--working on adding daily code puzzle
+-working on adding daily code puzzle ---creating randomizer 
