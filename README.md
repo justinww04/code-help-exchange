@@ -15,4 +15,4 @@ This will alow users to also solve problems for others for a in app currency
 -added updated login screen -updated
 -working on adding daily code puzzle ---creating randomizer --- almost complete --- still work in progress-- complete
 -trying to figure out reward system - complete -- UPDATED
-
+-working on the process of uploading questions to the public
