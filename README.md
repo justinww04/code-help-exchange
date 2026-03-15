@@ -3,7 +3,7 @@
 
 This is a propject I am starting.
 
-this project will integrate ai to help with questions that go unanswered
+this project will integrate ai to help with questions that go unanswered- working on 
 
 This project will bring Software Devs together by allowing them to upload problems they are stuck on and allowing one another to help solve problems. 
 
