@@ -17,4 +17,4 @@ This will alow users to also solve problems for others for a in app currency
 -added updated login screen -updated
 -working on adding daily code puzzle ---creating randomizer --- almost complete --- still work in progress-- complete
 - trying to re design the app - complete
-- working on the responsiveness on website - fixed the mobile responsiveness
+- working on the responsiveness on website - fixed the mobile responsiveness -changed layout of mobile version
