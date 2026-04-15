@@ -1,6 +1,8 @@
 #Code-Help-Exchange App
 
 
+no updates today 
+
 This is a propject I am starting.
 
 this project will integrate ai to help with questions that go unanswered- working on - wokring on the api pull requests showing
