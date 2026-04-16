@@ -16,7 +16,7 @@ This will alow users to also solve problems for others for a in app currency
 -adding swipe feature-complete -- updated
 -Trying to intergrate reward system-complete - updated 
 -Trying to add social screen that allowys people to post problems and others to help. -complete - updated
--added updated login screen -updated
+-added updated login screen -updated re worked 2fa
 -working on adding daily code puzzle ---updatecreating randomizer --- almost complete --- still work in progress-- complete
 - trying to re design the app - complete
 - working on the responsiveness on website - fixed the mobile responsiveness -changed layout of mobile version
