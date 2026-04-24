@@ -1,6 +1,7 @@
 #Code-Help-Exchange App
 
 tested functions today 
+worked on the social aspect of user interaction
 
 no updates today 
 
